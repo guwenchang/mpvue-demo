@@ -42,7 +42,7 @@
   }
 </script>
 
-<style scoped>
+<style lang="scss">
   .userinfo {
     display: flex;
     flex-direction: column;
